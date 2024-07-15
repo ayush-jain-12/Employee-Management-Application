@@ -1,11 +1,11 @@
 # Employee-Management-Application
 ReactJS-Spring-Boot-CRUD-Full-Stack-App
 
-##Overview
+## Overview
 
 This repository contains a full-stack application for managing employee records, developed using ReactJS for the frontend and Spring Boot for the backend. The system provides a simple yet powerful interface for performing CRUD (Create, Read, Update, Delete) operations on employee data.
 
-##Features:
+## Features:
 
 Employee List: View all employees in a paginated and searchable table.
 Add Employee: Add new employee records with fields such as name, email, job title, and department.
